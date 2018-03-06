@@ -1,0 +1,85 @@
+body{
+	background-color: #2a2b2d;
+	margin: 0px;
+}
+
+p{
+	margin: 0px;
+}
+
+p, a, h1, h2, h3, h4{
+	padding: 10px;
+}
+
+h2{
+	color: red;
+}
+
+html{
+	font-family: Arial;
+}
+
+/*--------------------HEADER-------------------*/
+
+header{
+	width: 100%;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #141516;
+	color: white;
+}
+
+#photo_identite{
+	width: 8%;
+	height: 8%;
+}
+
+#coordonnees{
+	padding-left: 10px;
+}
+
+header img{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+header h1{
+	display: inline-block;
+	text-align: right;
+	margin: 0px;
+}
+
+
+/*--------------------MENU-------------------*/
+
+nav{
+	padding: 10px 0;
+}
+
+nav li{
+	list-style-type: none;
+}
+
+nav a{
+	color: white;
+	text-align: justify;
+	text-decoration: none;
+	text-align: center;
+}
+
+nav a:hover{
+	background-color: #13822b;
+}
+
+ul#menu{
+	margin: 0;
+	padding: 0;
+}
+
+ul#menu li{
+	display: inline;
+}
+
+/*------------------------------------------*/
