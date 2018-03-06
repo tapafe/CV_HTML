@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Arnaud RIGAUT</title>
+	<link rel="stylesheet" type="text/css" href="creative.css">
+</head>
+<body>
+	<header>
+			<img id="photo_identite" src="moi.jpg" alt="photo de profil"> 
+			<div id="coordonnees">
+				<h1>Arnaud RIGAUT</h1>
+				<p>06.47.45.74.24</p>
+			</div>
+	</header>
+
+	<nav>
+		<ul id="menu">
+			<li><a href="#competences">Compétences</a></li>
+			<li><a href="#formation">Formation</a></li>
+			<li><a href="#experiences">Experiences</a></li>
+			<li><a href="#loisirs">Loisirs</a></li>
+		</ul>
+	</nav>
+
+	<section>
+		<article class="competences">
+			<h2 id="competences">COMPÉTENCES</h2>
+			<h3>Informatique</h3>
+			<ul>
+				<li> JAVA </li>
+				<li> C </li>
+				<li> HTML </li>
+			</ul>
+		</article>
+
+		<article class="formation">
+			<h2 id="formation">FORMATION</h2>
+			<h4 id="1_stage"> 00/00/2018 -->  31/00/2018</h4>
+		</article>
+
+		<article class="experiences">
+			<h2 id="experiences">EXPÉRIENCES</h2>
+			<h4 id="1_experience"> 01/01/2018 --> 01/02/2018</h4>
+			<ul>
+				<li> Mission 1</li>
+				<li> Mission 2</li>
+			</ul>
+
+			<h4 id="2_experience"> 01/03/2018 --> 01/04/2018</h4>
+			<ul>
+				<li>Mission</li>
+			</ul>
+		</article>
+
+		<article class="loisirs">
+			<h2 id="loisirs">LOISIRS</h2>
+			
+		</article>
+	</section>
+			
+</body>
+
+<footer>
+	<a href="https://www.linkedin.com/in/arnaud-r-b41740115/"> Linkedin</a>
+</footer>
+
+</html>
